@@ -9,7 +9,7 @@ Welcome to my **Web Development Notes** repository! 🚀 This repo is a collecti
 - 🏗 **Backend** – Node.js, Express, APIs
 - 📚 **Useful Tools & Resources**
 
-git clone https://github.com/your-username/web-dev-notes.git
+git clone [https://github.com/your-username/web-dev-notes.git](https://github.com/Nitishshukla1608/wen-dev-notes.git)
 
 📢 Connect with Me
 📧 Email: your-shuklanitish057@gmail.com
